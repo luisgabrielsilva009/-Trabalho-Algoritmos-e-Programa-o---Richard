@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "libs Java/**/*.jar"
+    ],
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "java": "cd $dir && javac --release 8 -encoding UTF-8 -cp \".;libs Java/*\" $fileName && java -cp \".;libs Java/*\" $fileNameWithoutExt"
+    }
+}
