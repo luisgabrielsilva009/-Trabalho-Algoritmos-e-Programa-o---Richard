@@ -1,6 +1,6 @@
 # Controlando uma Impressora Termica Elgin (Java)
 
-Trabalho da disciplina de Logica de Programacao feito em Java para controlar uma impressora termica Elgin i8 / i9 usando a DLL da Elgin (`E1_Impressora01.dll`) com a biblioteca JNA.
+Trabalho da disciplina de Algoritmo e Programação feito em Java para controlar uma impressora termica Elgin i8 / i9 usando a DLL da Elgin (`E1_Impressora01.dll`) com a biblioteca JNA.
 
 ## Sobre o projeto
 
