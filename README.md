@@ -60,7 +60,7 @@ java -cp ".;libs Java/*" Main
 
 ## Integrantes
 
-- Luis Gabriel
-- Vinicius Rian
-- Vitor H.
-- Gustavo Rocha
+- Luis Gabriel - 258438
+- Vinicius Rian - 259577
+- Vitor H. - 205292
+- Gustavo Rocha - 077691
